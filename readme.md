@@ -2,10 +2,6 @@
 
 Simple vanila js snake game
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
 ## features 
 
 * high scores are stored in local storage
