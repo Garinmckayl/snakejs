@@ -1,5 +1,5 @@
 # snake js
-
+## [Demo](https://natnael123.github.io/snakejs/)
 Simple vanila js snake game
 
 ## Description
