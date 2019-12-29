@@ -2,6 +2,10 @@
 
 Simple vanila js snake game
 
+## Description
+
+* controls: W, A, S, and D keys or arrow keys
+
 ## features 
 
 * high scores are stored in local storage
